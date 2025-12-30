@@ -1,0 +1,7 @@
+google-adk>=0.1.0
+litellm>=1.0.0
+langchain-community
+langchain
+requests
+python-dotenv
+tavily-python
